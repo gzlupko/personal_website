@@ -14,7 +14,12 @@ output:
 
 <br>
 
-Gian is a current PhD student in Organizational Psychology at Columbia University.
+
+Gian is a current PhD student in Organizational Psychology at Columbia University. His research focuses on organizational behavior, individual decision-making, and quantiative methods. In 2021, Gian served as a research intern at NASA. There he focused on developing a measure of innovative work behaviors and analyzing workforce data. Prior to beginning his doctoral studies, Gian spent two years in human capital consulting with Korn Ferry. There, he was responsible for conducting organizational-level culture assessments and working with clients in the healthcare industry to design change management initiatives. 
+
+He is an R and data science enthusiast and even built this website in R! 
+
+
 
 
 ```{r, echo = FALSE}
