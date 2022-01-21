@@ -29,7 +29,7 @@ meta() %>%
   meta_social(
     title = "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast",
     url = "https://gzlupko.github.io/personal_website/",
-    image = "gzlupko/gian_website.jpeg",
+    image = "gzlupko/personal_website/gian_website.jpeg",
     image_alt = "Photo of Gian Zlupko",
     og_author = c("Gian Zlupko"),
     twitter_card_type = "summary",
