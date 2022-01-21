@@ -23,7 +23,6 @@ He is an R and data science enthusiast and even built this website in R!
 
 
 
-
 ```{r, echo = FALSE}
 library(metathis)
 
