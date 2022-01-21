@@ -14,13 +14,7 @@ output:
 
 <br>
 
-Keith McNulty is an applied mathematician/statistician, psychometrician and data scientist based in the UK.  He started his career as a Pure Mathematician with a focus on Matrix Algebra and Group Representation Theory. He then transitioned into the private sector where he developed expertise in the application of mathematics and measurement theory to questions of people, talent, skills and organizational science.  He is currently the Global Leader of Talent Science and Analytics at McKinsey & Company, the leading global professional services firm.  
-
-He has authored a number of textbooks in the fields of data science and people analytics, including:
-
-- [*Handbook of Regression Modeling in People Analytics*](https://www.routledge.com/Handbook-of-Regression-Modeling-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032041742)
-- [*Handbook of Graphs and Networks in People Analytics*](https://www.routledge.com/Handbook-of-Graphs-and-Networks-in-People-Analytics-With-Examples-in-R/McNulty/p/book/9781032204970)
-- [*Using Data in Organizations* (Book Chapter with Alexis A. Fink)](https://www.routledge.com/Data-Methods-and-Theory-in-the-Organizational-Sciences-A-New-Synthesis/Murphy/p/book/9780367857707)
+[insert bio]
 
 
 ```{r, echo = FALSE}
@@ -28,12 +22,12 @@ library(metathis)
 
 meta() %>%
   meta_description(
-    "Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author"
+    "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast"
   ) %>% 
-  meta_name("github-repo" = "keithmcnulty/keithmcnulty.org") %>% 
+  meta_name("github-repo" = "gzlupko/personal_website") %>% 
   meta_viewport() %>% 
   meta_social(
-    title = "Keith McNulty: Applied Mathematician, Psychometrician, Data Scientist and Author",
+    title = "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast",
     url = "https://keithmcnulty.org",
     image = "https://keithmcnulty.org/keith-meta.png",
     image_alt = "Photo of Keith McNulty",
