@@ -28,10 +28,10 @@ meta() %>%
   meta_viewport() %>% 
   meta_social(
     title = "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast",
-    url = "https://keithmcnulty.org",
-    image = "https://keithmcnulty.org/keith-meta.png",
-    image_alt = "Photo of Keith McNulty",
-    og_author = c("Keith McNulty"),
+    url = "https://gzlupko.github.io/personal_website/",
+    image = "https://gzlupko.github.io/personal_website/gian_website.jpeg",
+    image_alt = "Photo of Gian Zlupko",
+    og_author = c("Gian Zlupko"),
     twitter_card_type = "summary",
     twitter_creator = "@dr_keithmcnulty"
   )
