@@ -24,7 +24,7 @@ meta() %>%
   meta_description(
     "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast"
   ) %>% 
-  meta_name("github-repo" = "gzlupko/personal_website") %>% 
+  meta_name("github-repo" = "gzlupko/https://gzlupko.github.io/personal_website/") %>% 
   meta_viewport() %>% 
   meta_social(
     title = "Gian Zlupko: PhD Student in Organizational Psychology at Columbia University | Data Analytics and R Enthusiast",
@@ -32,7 +32,5 @@ meta() %>%
     image = "https://gzlupko.github.io/personal_website/gian_website.jpeg",
     image_alt = "Photo of Gian Zlupko",
     og_author = c("Gian Zlupko"),
-    twitter_card_type = "summary",
-    twitter_creator = "@dr_keithmcnulty"
   )
 ```
