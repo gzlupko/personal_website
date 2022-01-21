@@ -14,7 +14,7 @@ output:
 
 <br>
 
-[insert bio]
+Gian is a current PhD student in Organizational Psychology at Columbia University.
 
 
 ```{r, echo = FALSE}
