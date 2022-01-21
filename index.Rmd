@@ -1,6 +1,6 @@
 ---
 title: "Gian Zlupko"
-image: "gian.jpg"
+image: "gian_website.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gian-zlupko-5b34336b/"
