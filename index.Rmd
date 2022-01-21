@@ -1,15 +1,13 @@
 ---
-title: "Keith McNulty"
-image: "keith.jpg"
+title: "Gian Zlupko"
+image: "gian.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/keith-mcnulty/"
-  - label: Twitter
-    url: "https://twitter.com/dr_keithmcnulty"
-  - label: Books
-    url: "https://www.routledge.com/authors/i21388-keith-mcnulty"
-  - label: Blog
-    url: "https://blog.keithmcnulty.org"
+    url: "https://www.linkedin.com/in/gian-zlupko-5b34336b/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=3A2WaDkAAAAJ&hl=en"
+  - label: GitHub
+    url: "https://github.com/gzlupko"
 output:
   postcards::trestles
 ---
