@@ -17,9 +17,11 @@ output:
 
 Gian is a current PhD student in Organizational Psychology at Columbia University. His research focuses on organizational behavior, decision-making, and quantitative methods. 
 
-In 2021, Gian served as a research intern at NASA. There, he focused on developing a measure of innovative work behaviors and analyzing workforce data. Prior to beginning his doctoral studies, Gian spent two years in human capital consulting with Korn Ferry. As a consultant, Gian was responsible for conducting organizational-level culture assessments and working with clients in the healthcare industry to design change management initiatives. 
+During his PhD studies, Gian has served as a two-time NASA intern. In his first intern role, Gian developed a measure of innovative work behaviors and analyzed workforce data. During his second internship with NASA, he applied natural language processing (NLP) and machine learning techniques to uncover workforce insights from 30,000+ employee responses to open-ended survey questions. Additionally, he developed an interactive data analysis application to automate core NLP tasks for NASA's survey researchers including text mining, sentiment analysis, and topic modeling. 
 
-He is an R and data science enthusiast (and even built this website in R!)
+Prior to beginning his doctoral studies, Gian spent two years in human capital consulting with Korn Ferry. As a consultant, Gian was responsible for conducting organizational culture assessments and working with clients in the healthcare industry to design change management initiatives. 
+
+He is a data science enthusiast and built this website in R!
 
 
 
