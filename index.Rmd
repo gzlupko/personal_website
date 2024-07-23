@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gian-zlupko-5b34336b/"
   - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=bqSYDvEAAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?user=bqSYDvEAAAAJ&hl=en&oi=ao"
   - label: GitHub
     url: "https://github.com/gzlupko"
 output:
